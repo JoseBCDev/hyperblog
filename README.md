@@ -14,5 +14,5 @@ Un Blog increible para el curso de Git y GitHub de Platzi
     * Andamos practicando y Aprendiendo duro
     * Cada vez mejoramos más
     * Creditos a Platzi"
-    
+    * Atte: Jo Se Lui Ben zu Cor tez
 y como un amable recordatorio: **Este readme.md es un chiste**. Diseñado para el ejemplo. Si llegas acá NO TE LO  TOMES EN SERIO y mejor ve [a ver el curso]https://github.com/JoseBCDev/HyperBlog
