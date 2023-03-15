@@ -11,5 +11,12 @@ Un Blog increible para el curso de Git y GitHub de Platzi
     * El verdadero amor por las buenas prácticas
     * Trucos muy locos del profesor
     * Las personalidades múltiples de Freddy
+<<<<<<< HEAD
 
+=======
+    * Andamos practicando y Aprendiendo duro
+    * Cada vez mejoramos más
+    * Creditos a Platzi"
+    
+>>>>>>> 835cccf (Creditos A platzi)
 y como un amable recordatorio: **Este readme.md es un chiste**. Diseñado para el ejemplo. Si llegas acá NO TE LO  TOMES EN SERIO y mejor ve [a ver el curso]https://github.com/JoseBCDev/HyperBlog
